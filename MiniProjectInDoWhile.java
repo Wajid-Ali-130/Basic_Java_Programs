@@ -497,7 +497,7 @@ class MiniProjectInDoWhile{
                 
                     alphabeticSelection = obj.nextInt();
                     if (alphabeticSelection==1) {
-                        // String operator;
+                         String operator;
                         // do{
                             // System.out.println("If Yoyu Want To Exit From This Program So Write (Cancel)");
                             System.out.println("Enter Any Letter :");
